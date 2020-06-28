@@ -1,4 +1,4 @@
-/* descripcion: ANALIZADOR DEL LENGUAJE C# proyecto 2 compi1 */
+/* descripcion: ANALIZADOR DEL LENGUAJE C# proyecto 2 compi1 prueba de commit */
 // segmento de codigo, importaciones y todo dentro de 
 %{
     const TIPO = require('./Api_ReporteAst').TIPO;
