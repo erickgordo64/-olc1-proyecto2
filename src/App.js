@@ -44,6 +44,8 @@ class App extends React.Component {
         <Title/>
         <Input />
         <Button/>
+        <Input/>
+        
       </Layout>
      
     );
